@@ -10,8 +10,6 @@ development, including:
 
 **Ethereum Development:** Utilizing Web3 libraries and interacting with Ethereum blockchain.
 
-**Links for Projects**
-
 **Disclaimer:**
 
 This repository is for educational purposes only. The projects may contain experimental code and may not be suitable for production use. Please use your own judgment and 
