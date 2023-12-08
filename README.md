@@ -5,6 +5,9 @@
 This repository showcases my projects exploring blockchain technology and Solidity programming. Each project demonstrates my understanding of various aspects of blockchain 
 development, including: Smart Contract development and Ethereum Development
 
+**Links for Projects**
+1. [The BlockChain Messenger](https://github.com/Ameya-2003/BlockChain/blob/main/Projects/The%20BlockChain%20Messenger.sol)
+
 **Disclaimer:**
 
 This repository is for educational purposes only. The projects may contain experimental code and may not be suitable for production use. Please use your own judgment and 
