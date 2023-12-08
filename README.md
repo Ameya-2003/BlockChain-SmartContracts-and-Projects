@@ -1,14 +1,9 @@
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbYorzIXtR6Sz2z-M_ZM-JBgDxJ1SfGHVMg&usqp=CAU)
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWktLACEr9lF60l9Rkhe0oTtgxSSvVIFR6lQ&usqp=CAU)
 
 ***Welcome to my Blockchain/Solidity Projects Repository!***
 
 This repository showcases my projects exploring blockchain technology and Solidity programming. Each project demonstrates my understanding of various aspects of blockchain 
-development, including:
-
-**Smart Contract Development:** Writing secure and efficient smart contracts using Solidity.
-
-**Ethereum Development:** Utilizing Web3 libraries and interacting with Ethereum blockchain.
+development, including: Smart Contract development and Ethereum Development
 
 **Disclaimer:**
 
