@@ -19,6 +19,6 @@ Contributions to this repository are welcome! Feel free to fork the repository a
 
 **Contact Information**
 
-If you have any questions or suggestions regarding the solutions in this repository, you can reach out to me via [Email](ameyamuktewargithub@gmail.com).
+If you have any questions or suggestions regarding the solutions in this repository, you can reach out to me via [Email](mailto:ameyamuktewargithub@gmail.com).
 
 **Thank you for your interest!**
