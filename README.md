@@ -33,7 +33,7 @@ conduct thorough research before deploying any code to a live blockchain network
 
 Contributions to this repository are welcome! Feel free to fork the repository and submit pull requests with your enhancements or new projects.
 
-🖋**Contact Information**
+✍**Contact Information**
 
 If you have any questions or suggestions regarding the solutions in this repository, you can reach out to me via [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?)](https://www.linkedin.com/in/ameya-muktewar-2006a9243/).
 
