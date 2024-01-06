@@ -29,7 +29,7 @@ This project explores the concept of tokenizing real-world assets (such as curre
 
 [The BlockChain Messenger](https://github.com/Ameya-2003/BlockChain/blob/main/Projects/The%20BlockChain%20Messenger.sol)
 
-[Tokenization of Assets(Currencies)](https://drive.google.com/drive/u/8/my-drive?q=parent:0ABlFOb_FeavUUk9PVA)
+[Tokenization of Assets(Currencies)](https://drive.google.com/file/d/1yfLH_mwPBPRBv1E8DNxYDyeZKv5vKI0C/view?usp=sharing)
 
 **Contact Information**
 
