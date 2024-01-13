@@ -35,6 +35,6 @@ Contributions to this repository are welcome! Feel free to fork the repository a
 
 ✍ **Contact Information**
 
-If you have any questions or suggestions regarding the solutions in this repository, you can reach out to me <a href="mailto:ameyamuktewargithub@gmail.com"><b>Via Mail</b></a>. </a>
+If you have any questions or suggestions regarding the solutions in this repository, you can reach out to me <a href="mailto:ameyamuktewargithub@gmail.com"><b>Via Mail</b></a>. 
 
 🙏 **Thank you for your interest!**
