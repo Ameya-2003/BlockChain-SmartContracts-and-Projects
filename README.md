@@ -3,7 +3,7 @@
 # 🎉 Welcome to my Repository for Ethereum Blockchain
 
 This repository showcases my projects exploring blockchain technology and Solidity programming. Each project demonstrates my understanding of various aspects of blockchain 
-development, including: Smart Contract development and Ethereum Development
+development, including: Smart Contract development and development and testing of Decentralized Systems 
 
 [![The BlockChain Repository](https://img.shields.io/badge/Ethereum-3C3C3D?)](https://ameya-2003.github.io/BlockChain/)
 [![Remix](https://img.shields.io/badge/remix-%23000.svg?)](https://remix.run/)
