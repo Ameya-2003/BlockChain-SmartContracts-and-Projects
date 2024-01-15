@@ -12,7 +12,7 @@ development, including: Smart Contract development and development and testing o
 
 ### 1. Decentralized Voting System with Fraud Reduction
 
-This is a decentralized voting system with fraud reduction, built with solidity language, and [Hardhat](https://hardhat.org/) for testing. Also inherits some fraud reduction libraries from [Openzeppelin](https://docs.openzeppelin.com/contracts/2.x/access-control) ownable smart contract. [Repository link](https://github.com/Ameya-2003/Decentralized-Voting-System-with-Fraud-Reduction-)
+This is a decentralized voting system with fraud reduction, built with solidity language, and [Hardhat](https://hardhat.org/) for testing. Also inherits some fraud reduction libraries from [Openzeppelin](https://docs.openzeppelin.com/contracts/2.x/access-control) ownable smart contract. Take a look at [Repository](https://github.com/Ameya-2003/Decentralized-Voting-System-with-Fraud-Reduction-) for exploring all files.
 
 [![Decentralized Voting System with Fraud Reduction](https://img.shields.io/badge/%20Testing-4285F4?)](https://drive.google.com/file/d/15mrOagv-fN946OK_wILDhQvN03kF8FpL/view?usp=sharing)
 [![Decentralized Voting System with Fraud Reduction](https://img.shields.io/badge/Solidity-%23363636.svg?)](https://github.com/Ameya-2003/Decentralized-Voting-System-with-Fraud-Reduction-/tree/main/SmartContract)
